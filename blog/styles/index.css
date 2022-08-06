@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    margin: 4rem;
+}
+
+.card-group{
+    border: 2px;
+    border-color: black;
+}
+
+.card-img-top{
+    padding: 2rem;
+}
+
+.card-body{
+    margin: 2rem;
+}
+
+.card-title{
+    font-weight: 600;
+}
